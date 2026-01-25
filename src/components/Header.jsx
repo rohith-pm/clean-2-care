@@ -1,11 +1,11 @@
 import React from 'react'
-
+import logoImg from '../assets/logo.jpg'
 export default function Header(){
   return (
     <header className="site-header">
       <div className="header-left">
         <div className="logo">
-          <img src="/src/assets/logo.jpg" alt="Clean2Care logo" className="site-logo" />
+          <img src={logoImg} alt="Clean2Care Logo" className="site-logo" />
         </div>
       </div>
       <div className="nav-cta">
