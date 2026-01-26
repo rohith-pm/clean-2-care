@@ -106,8 +106,6 @@ main{flex:1}
 
 .muted{color:var(--muted)}
 
-.header-tagline{font-size:1.15rem;color:#000000;font-weight:600;margin:0;letter-spacing:0.3px;background:rgba(255,255,255,0.95);padding:8px 12px;border-radius:6px;line-height:1.2}
-
 @media(max-width:1000px){
   .services-grid{gap:18px}
 }
