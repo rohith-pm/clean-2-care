@@ -5,7 +5,7 @@ export default function Hero(){
     <section className="hero">
       <div className="hero-inner">
         <div className="hero-text">
-          <h1>Professional Facade Cleaning</h1>
+          <h1>Professional Facade, glass and window Cleaning</h1>
           <p>Clean 2 Care provides safe, reliable facade cleaning, glass & ACP services, silicone work, and bird protection solutions.</p>
           
           <div className="hero-badges">
