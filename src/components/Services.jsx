@@ -5,7 +5,8 @@ const services = [
   {title:'Silicon work', desc:'Silicone sealing and joint repairs.'},
   {title:'Glass replacement', desc:'Supply and replace damaged facade glasses.'},
   {title:'ACP(Aluminium Composite Panel)', desc:'Repairs and other services.'},
-  {title:'Bird net and spikes', desc:'Bird-proofing solutions: nets and bird spikes.'}
+  {title:'Bird net and spikes', desc:'Bird-proofing solutions: nets and bird spikes.'},
+  {title:'Facade access system', desc:'Eye bolt, rig, track and gradle.'}
 ]
 
 export default function Services(){
