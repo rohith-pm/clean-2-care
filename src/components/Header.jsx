@@ -1,5 +1,5 @@
 import React from 'react'
-import logoImg from '../assets/logo.jpg'
+import logoImg from '../assets/logo_tm.png'
 export default function Header(){
   return (
     <header className="site-header">

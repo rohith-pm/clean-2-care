@@ -6,7 +6,8 @@ const services = [
   {title:'Glass replacement', desc:'Supply and replace damaged facade glasses.'},
   {title:'ACP(Aluminium Composite Panel)', desc:'Repairs and other services.'},
   {title:'Bird net and spikes', desc:'Bird-proofing solutions: nets and bird spikes.'},
-  {title:'Facade access system', desc:'Eye bolt, rig, track and gradle.'}
+  {title:'Facade access system', desc:'Eye bolt, rig, track and gradle.'},
+  {title:'Washroom Glass Partition', desc:'Specialized cleaning to remove water stains and smudges from glass partitions.'},
 ]
 
 export default function Services(){
