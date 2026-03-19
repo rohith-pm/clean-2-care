@@ -5,8 +5,8 @@ export default function Hero(){
     <section className="hero">
       <div className="hero-inner">
         <div className="hero-text">
-          <h1>Professional glass and window cleaning</h1>
-          <p>Clean 2 Care provides safe, reliable facade cleaning, glass & ACP services, silicone work, and bird protection solutions.</p>
+          <h1>Professional Facade Cleaning &amp; Building Care Services in Hyderabad</h1>
+          <p>Clean 2 Care provides safe, reliable facade cleaning, glass replacement, ACP services, silicone work, and bird protection solutions for commercial and residential buildings in Hyderabad.</p>
           
           <div className="hero-badges">
             <div className="badge">

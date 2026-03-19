@@ -15,7 +15,7 @@ export default function Services(){
     <section className="services">
       <div className="container">
         <h2 style={{margin:'0 0 12px'}}>Our Services</h2>
-        <p className="muted" style={{margin:'0 0 18px'}}>Comprehensive facade maintenance solutions.</p>
+        <p className="muted" style={{margin:'0 0 18px'}}>Comprehensive facade maintenance solutions for commercial and residential properties in Hyderabad.</p>
         <div className="services-grid">
           {services.map(s=> (
             <div className="service-card" key={s.title}>

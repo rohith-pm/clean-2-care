@@ -10,7 +10,7 @@ export default function Contact(){
             <div className="contact-details">
               <h2>Contact Us</h2>
               
-              <p style={{marginTop:12}}>We handle commercial and residential facade work. Call our contacts for quick assistance or request a free site visit.</p>
+              <p style={{marginTop:12}}>We handle commercial and residential facade work across Hyderabad. Call our contacts for quick assistance or request a free site visit.</p>
 
               <div style={{display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '12px'}}>
                 <svg className="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden>
